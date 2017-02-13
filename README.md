@@ -1,44 +1,26 @@
-## Link to the website:
-https://tylerwonglr.github.io/
+# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
 
+## Getting Started
 
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
+## Bugs and Issues
 
-## Welcome to GitHub Pages
+Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
 
-You can use the [editor on GitHub](https://github.com/tylerwonglr/tylerwonglr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Creator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-### Markdown
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-```markdown
-Syntax highlighted code block
+## Copyright and License
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tylerwonglr/tylerwonglr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
